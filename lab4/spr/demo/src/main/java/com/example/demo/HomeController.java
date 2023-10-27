@@ -20,5 +20,4 @@ public class HomeController {
   public String testPage() {
     return "test";
   }
-
 }
